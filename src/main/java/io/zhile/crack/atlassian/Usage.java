@@ -14,7 +14,7 @@ import java.util.Map;
  * @link https://zhile.io
  */
 public class Usage {
-    private static final String VERSION = "v1.3.1";
+    private static final String VERSION = "v1.3.2";
     private static final Options OPTIONS = new Options();
     private static final Map<String, String> PRODUCTS = new HashMap<>(16);
     private static final String PRODUCTS_DESC;
